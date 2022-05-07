@@ -26,7 +26,7 @@ MOBILE
 ### Links
 
 - Solution URL: [GITHUB](https://github.com/mastertbal/QR-CODE-COMPONENT/edit/master/README.md)
-- Live Site URL: [LIVE LINK](https://mastertbal.github.io/PROFILE-CARD-COMPONENT//index.html)
+- Live Site URL: [LIVE LINK](https://mastertbal.github.io/QR-CODE-COMPONENT/index.html)
 
 ## My process
 
